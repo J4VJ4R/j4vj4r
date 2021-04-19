@@ -1,22 +1,22 @@
-<img src="https://scontent.fctg2-1.fna.fbcdn.net/v/t1.6435-9/134104135_10217789653644743_6011395547791374609_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=5uHK_BY_o_cAX-JPeSf&_nc_ht=scontent.fctg2-1.fna&oh=c21a27e671b68f7b9003c9cf83188c49&oe=60A47F34"/>
+<img src="<a href="https://ibb.co/3WCQnwn"><img src="https://i.ibb.co/827tHJH/134104135-10217789653644743-6011395547791374609-n.jpg" alt="134104135-10217789653644743-6011395547791374609-n" border="0"></a>"/>
 
-
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+<p><em>Systems engineer at <a href="https://www.unad.edu.co/">UNAD</a>, majoring in programing 😊</br>
+</em></p>
+<p><em>Software developer at <a href="https://www.holbertonschool.com/co/en/">Holberton</a>, majoring in Front-end 😊</br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, HTML, CSS, SASS],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React", "JQUERY"],
+         css: ["Bootstrap", "Semantic UI"]
       },
       backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
+         PHP: ["Laravel"],
+         js: ["Node"],
          csharp: ["Asp.net Core"],
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
