@@ -5,10 +5,13 @@
 <p><em>Software developer at <a href="https://www.holbertonschool.com/co/en/">Holberton</a>, majoring in Front-end 😊</br>
 </em></p>
 
-
+![Twitter Follow](https://img.shields.io/twitter/follow/javifullstack?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-JavierJaramillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-jaramillo-346b681a1/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/j4vj4r?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=j4vj4r)
 ```javascript
 const aboutMe = {
-   code: [Javascript, HTML, CSS, SASS],
+   code: [Javascript, HTML, CSS, SASS, BEM],
    technologies: {
       frontEnd: {
          js: ["React", "JQUERY"],
@@ -17,7 +20,6 @@ const aboutMe = {
       backEnd: {
          PHP: ["Laravel"],
          js: ["Node"],
-         csharp: ["Asp.net Core"],
          misc: ["Bash"]
       },
       databases: ["mySQL", "SQL"]
