@@ -1,4 +1,4 @@
-<img src="<a href="https://ibb.co/3WCQnwn"><img src="https://i.ibb.co/827tHJH/134104135-10217789653644743-6011395547791374609-n.jpg" alt="134104135-10217789653644743-6011395547791374609-n" border="0"></a>"/>
+<img src="https://i.ibb.co/827tHJH/134104135-10217789653644743-6011395547791374609-n.jpg" alt="134104135-10217789653644743-6011395547791374609-n" border="0"></a>"/>
 
 <p><em>Systems engineer at <a href="https://www.unad.edu.co/">UNAD</a>, majoring in programing 😊</br>
 </em></p>
