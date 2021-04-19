@@ -12,25 +12,24 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "JQUERY"],
-         css: ["Bootstrap", "Semantic UI"]
+         css: ["Bootstrap"]
       },
       backEnd: {
          PHP: ["Laravel"],
          js: ["Node"],
          csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         misc: ["Bash"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["mySQL", "SQL"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["student on Front-end especialization, open for job opportunities"],
+   challenge: "I'm learning Nodejs and React",
 };
 ```
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=J4VJ4R&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
 
