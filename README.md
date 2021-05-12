@@ -32,11 +32,11 @@ const aboutMe = {
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
 	<br/>
-  	<img src="https://img.shields.io/badge/android-%2337C677.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7de1e" alt="JavaScript"/>
 	<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+	<img src="https://i.ibb.co/7KDPhQs/68747470733a2f2f692e7974696d672e636f6d2f76692f62766e7a7958476b4e59342f6d617872657364656661756c742e6a.jpg" alt="bem"/>
 </details>
 </br></br>
 <h2>💻 Some stats 💻</h2>
