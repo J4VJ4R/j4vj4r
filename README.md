@@ -20,6 +20,7 @@
 	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 	<img src="https://i.postimg.cc/qvVwr03K/bem.jpg" alt="bem"/>
 	<img src="https://i.postimg.cc/g03fpNjz/sass-header.jpg" alt="bem"/>
+	<img src="https://i.postimg.cc/sXN0kfGW/Post-Flexbox.jpg" alt="bem"/>
 </details>
 <h2>💻 Some stats 💻</h2>
 
