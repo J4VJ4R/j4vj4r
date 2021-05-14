@@ -22,6 +22,8 @@
 	<img src="https://i.postimg.cc/g03fpNjz/sass-header.jpg" alt="bem"/>
 	<img src="https://i.postimg.cc/sXN0kfGW/Post-Flexbox.jpg" alt="bem"/>
 	<img src="https://i.postimg.cc/qq763011/bots.jpg" alt="bem"/>
+	<br/>
+	<img src="https://i.postimg.cc/Bn0Q4652/vsc.png" alt="bem"/>
 </details>
 <h2>💻 Some stats 💻</h2>
 
