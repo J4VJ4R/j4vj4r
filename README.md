@@ -7,7 +7,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/javifullstack?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-JavierJaramillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-jaramillo-346b681a1/)](https://www.linkedin.com/in/anmol-p-singh/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-JavierJaramillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/javier-jaramillo-346b681a1/)](https://www.linkedin.com/in/javier-fullstack/)](https://www.linkedin.com/in/anmol-p-singh/)
 ![GitHub followers](https://img.shields.io/github/followers/j4vj4r?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=j4vj4r)
 
