@@ -1,7 +1,7 @@
 <!-- Encabezado -->
 <h1 align="center">👋 ¡Hola, soy Javier Jaramillo! 🚀</h1>
 <p align="center">
-  <img src="https://i.ibb.co/h9prLSj/astronauta.jpg" width="200">
+  <img src="[https://i.ibb.co/h9prLSj/astronauta.jpg](https://i.ibb.co/h9prLSj/astronauta.jpg)" width="200">
 </p>
 
 <!-- Presentación -->
