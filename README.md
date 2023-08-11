@@ -12,7 +12,7 @@
 
 <!-- Redes Sociales y Contacto -->
 <p align="center">
-  <a href="https://twitter.com/javifullstack"><img src="https://img.shields.io/twitter/follow/javifullstack?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://twitter.com/jaradeveloper"><img src="https://img.shields.io/twitter/follow/jaradeveloper?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/javier-fullstack/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/j4vj4r"><img src="https://img.shields.io/github/followers/j4vj4r?label=Follow&style=social" alt="GitHub"></a>
 </p>
