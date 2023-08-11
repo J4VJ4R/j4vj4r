@@ -1,7 +1,7 @@
 <!-- Encabezado -->
 <h1 align="center">👋 ¡Hola, soy Javier Jaramillo! 🚀</h1>
 <p align="center">
-  <img src="[https://i.ibb.co/h9prLSj/astronauta.jpg](https://i.ibb.co/h9prLSj/astronauta.jpg)" width="200">
+  <img src="https://media1.tenor.com/images/ac38aa19b56379ee9831612f41894ad0/tenor.gif?itemid=5124250" width="200">
 </p>
 
 <!-- Presentación -->
