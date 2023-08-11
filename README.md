@@ -1,7 +1,7 @@
 <!-- Encabezado -->
 <h1 align="center">👋 ¡Hola, soy Javier Jaramillo! 🚀</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="200">
+  <img src="https://i.ibb.co/h9prLSj/astronauta.jpg" width="200">
 </p>
 
 <!-- Presentación -->
@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/CSS3-%233573b5.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Git-%23fc6d26.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://i.postimg.cc/qvVwr03K/bem.jpg" alt="BEM"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/Liderazgo-%23FFA500.svg?style=for-the-badge&logoColor=white" alt="Liderazgo"/>
   <!-- Agrega más aquí -->
 </p>
 
