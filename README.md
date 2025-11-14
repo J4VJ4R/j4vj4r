@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Javier%20Jaramillo&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Software+Engineer+%7C+AI+Agents+Director;Full-Stack+Developer+%7C+SpaceCode+Founder;Building+the+Future+with+AI+%26+Code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Software+Engineer+%7C+AI+Agents+Director;Full-Stack+Developer+%7C+SpaceCode+Founder;Building+the+Future+with+AI+%26+Code" alt="Typing SVG" /></a>
 
 </div>
 
